@@ -1,6 +1,6 @@
 # MC_SVShowCrewBonusMods
   
-Shows crew skill bonus modifiers.  This modifier is rolled when the crew member learns the bonus and can range between 70% and 120%.
+Shows crew skill bonus modifiers.  This modifier is rolled when the crew member learns the bonus and can range between -30% and +20%.
   
 Backup your save before using any mods.  
   
